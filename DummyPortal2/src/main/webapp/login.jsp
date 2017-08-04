@@ -13,7 +13,7 @@ function func(){
 
 </head>
 <body>
-Subtract the numbers
+Add the numbers
 <form action = "LoginServlet">
 Number 1 <input type = "field" name = "number1" value = "2"/>
 Number 2 <input type = "field" name = "number2" value = "3">
