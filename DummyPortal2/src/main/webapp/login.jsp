@@ -15,8 +15,8 @@ function func(){
 <body>
 Multiply the numbers
 <form action = "LoginServlet">
-Number 1 <input type = "field" name = "number1">
-Number 2 <input type = "field" name = "number2">
+Number 1 <input type = "field" name = "number1" value = "2"/>
+Number 2 <input type = "field" name = "number2" value = "3">
 <input type = "submit" value = "Submit">
 </form>
 </body>
